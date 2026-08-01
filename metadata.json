@@ -1,0 +1,6 @@
+{
+  "name": "SEO Spark AI",
+  "description": "AI-powered SEO Content & Keyword Generator for Title Tags, Meta Descriptions, Slugs, H1s, Related Keywords, Outlines, and FAQs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
